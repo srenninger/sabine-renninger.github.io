@@ -6,7 +6,7 @@
   <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
   {{ $style := resources.Get "styles/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-  <link rel="stylesheet" href="./styles/style.min.css">
+  <link rel="stylesheet" href="/styles/style.min.css">
   
   <link rel="icon" type="image/png" sizes="64x64" href="/img/cactus-favicon.png">
 </head>
