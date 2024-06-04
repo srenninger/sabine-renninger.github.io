@@ -5,7 +5,7 @@ type: _default
 layout: single
 ---
 
-# Placeholder page for blog to come
+# Coming soon..
 {.p3}
 
 Blog will actually be a page based on the lists.html layout - which is yet pending
