@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
+  {{ $style := resources.Get "styles/style.scss" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  <link rel="stylesheet" href="./styles/style.min.css">
+  
+  <link rel="icon" type="image/png" sizes="64x64" href="/img/cactus-favicon.png">
+</head>
+<body>
+  <div class="nav-wrapper">
+    <nav class="nav">
+      <a class="nav-brand nav-link" href="/">
+        <img src="/img/logo.png" alt="Artifact" width="32" height="32">
+        <span>Kartika Lama</span>
+      </a>
+      <div class="nav-collapse">
+        <a class="nav-link" href="/publications/">Publications</a>
+        <a class="nav-link" href="/projects/">Projects</a>
+        <a class="nav-link" href="/blog/">Blog</a>
+      </div> 
+    </nav>
+  </div>
+  <div class="main-wrapper">
+  {{ block "page" . }}{{ end }}
+  </div>
+</body>
+</html>
