@@ -5,10 +5,10 @@ type: _default
 layout: single
 ---
 
-# List of recent and selected publications
+# List of Bine's projects
 {.p3}
 
-Table to fill with links to papers/pdf for download
+Great things to come - or even Greta!
 
 ## Something more to come
 
