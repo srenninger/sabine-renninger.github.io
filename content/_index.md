@@ -5,11 +5,10 @@ type: _default
 layout: single
 ---
 
-![](./img/lama2.png)
+![](./img/Sabine-Renninger-gray-bg-720.jpg)
 {.img-left}
 
-# Headding one - welcome message or similar
-{.p3}
+# Welcome message or similar
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
 

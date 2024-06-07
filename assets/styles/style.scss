@@ -55,7 +55,14 @@ body {
 }
 
 .img-left {
+  // display: inline-block;
   float: left;
+  img {
+  margin: 0.67rem 1.33rem;
+  width: 360px;
+  box-shadow: #ccc 10px 10px 20px;
+  border-radius: 15px;
+  }
 }
 
 .p3 {
