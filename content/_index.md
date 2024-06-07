@@ -8,10 +8,14 @@ layout: single
 ![](./img/Sabine-Renninger-gray-bg-720.jpg)
 {.img-left}
 
-# Welcome message or similar
+# Dr. Sabine L. Renninger
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+## Welcome to my homepage
 
-## More info on this site
+I am a System Neuroscience researcher working at the intersection of molecular and optical engineering, brain-wide functional imaging and data science to uncover how neural circuits dynamically process sensory cues and adaptively compute behavioral actions.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I received my PhD from the University of Zurich, through the Neuroscience Center. I then joined the Vision to Action Lab at the Champalimaud Center for the Unknown in Lisbon where I am working on deciphering visomotor circuit functions. 
+
+Dedicated to learning, I had the chance to contribute to diverse neuroscience training and science outreach programs and recently complement my biological education with medical knowledge in postgraduation studies on Fundamentals of Medicine at University of Algrave.
+
+Beyond my passion for understanding brain and body functions I love exploring the beauty of nature in and around the ocean and local forests.

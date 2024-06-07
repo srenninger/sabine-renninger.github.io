@@ -1,5 +1,6 @@
 body {
   background-color: #fefefe;
+  position: relative;
   color: #222;
   padding: 0;
   margin: 0;
@@ -7,10 +8,25 @@ body {
   flex-direction: column;
 }
 
+body::after {
+  content: "";
+  background-image: url(/img/bg1_1280.jpg);
+  background-size: cover;
+  opacity: 0.42;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  min-height: 100vh;
+}
+
 .nav-wrapper {
-  background-color: #89c;
+  background-color: #27a;
   display: flex;
   justify-content: center;
+  height: 3.333rem;
 
   nav.nav {
     width: 980px;
@@ -37,7 +53,7 @@ body {
       align-items: center;
 
       &:hover {
-        background-color: #339;
+        background-color: #135;
       }
     }
   }
