@@ -59,6 +59,7 @@ body::after {
   }
 }
 
+
 .main-wrapper {
   display: flex;
   justify-content: center;
@@ -67,6 +68,9 @@ body::after {
     display: flex;
     flex-direction: column;
     max-width: 980px;
+    background-color: #f0f8ff99;
+    padding: 2rem 0.5rem;
+    border-radius: .33rem;
   }
 }
 
@@ -74,7 +78,7 @@ body::after {
   // display: inline-block;
   float: left;
   img {
-  margin: 0.67rem 1.33rem;
+  margin: 0.67rem 1.5rem;
   width: 360px;
   box-shadow: #ccc 10px 10px 20px;
   border-radius: 15px;
